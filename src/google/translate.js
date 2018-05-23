@@ -74,7 +74,7 @@ define([
     'yiddish': 'yi'
   };
 
-  var key  = 'AIzaSyCI0d6x2G4HPqC0bl1zKwtLdNdrf3rEOuo';
+  var key  = 'AIzaSyC3qWbZeYt5X4__djy2ejtLBByfXA8W6C8';
   var base = 'https://www.googleapis.com/language/translate/v2';
   var url  = [
     base,
