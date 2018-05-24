@@ -75,7 +75,7 @@ define([
   };
 
   var key  = 'AIzaSyC3qWbZeYt5X4__djy2ejtLBByfXA8W6C8';
-  var base = 'https://www.googleapis.com/language/translate/v2';
+  var base = 'https://translation.googleapis.com/language/translate/v2/';
   var url  = [
     base,
     '?key=',
